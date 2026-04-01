@@ -1,2 +1,4 @@
 credentials/
 *.json
+mockups/
+*.png

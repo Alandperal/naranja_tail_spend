@@ -1,7 +1,23 @@
 # Tail Spend Analytics — Procurement Intelligence Platform
 
-> **Stack:** BigQuery · Looker (LookML) · Python · GitHub  
+> **Stack:** BigQuery · Looker Studio · Python · GitHub
+> **Proyecto GCP:** `naranja-x-491820`
 > **Scope:** Detección de Tail Spend fragmentado, auditoría de compliance y estrategia de sourcing centralizado.
+
+## 📊 Dashboard Live
+
+🔗 **[Looker Studio — Tail Spend Analytics](https://lookerstudio.google.com/reporting/c75ed4a1-c790-434c-8bf5-6cf574d9964f)**
+
+| KPI | Valor |
+|---|---|
+| Facturas analizadas | 10.000 |
+| Proveedores activos | 1.000 |
+| Gasto homogéneo total | **USD 79,994,082** (base Feb-2026) |
+| Gap inflacionario | +USD 3,833,172 (+5%) |
+| Alertas split purchasing | **362** (24 CRÍTICO) |
+| USD bajo alerta compliance | **USD 10,482,614** |
+| Top candidato acuerdo marco | Consultoría (182 proveedores) |
+| Savings base proyectado | **USD 1,501,160 / año** |
 
 ---
 
