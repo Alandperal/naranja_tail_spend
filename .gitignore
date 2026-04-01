@@ -2,3 +2,9 @@ credentials/
 *.json
 mockups/
 *.png
+
+# Archivos privados — solo para uso personal, no compartir
+docs/interview_defense.md
+docs/dashboard_mockup.md
+presentation/executive_deck.md
+
