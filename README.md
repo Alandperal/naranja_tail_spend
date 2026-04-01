@@ -1,6 +1,6 @@
 # Tail Spend Analytics — Procurement Intelligence Platform
 
-> **Stack:** BigQuery · Looker Studio · Python · GitHub
+> **Autor:** Alan Damian Peralta
 > **Proyecto GCP:** `naranja-x-491820`
 > **Scope:** Detección de Tail Spend fragmentado, auditoría de compliance y estrategia de sourcing centralizado.
 

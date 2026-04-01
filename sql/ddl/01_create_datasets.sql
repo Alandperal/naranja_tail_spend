@@ -2,7 +2,7 @@
 -- FILE: 01_create_datasets.sql
 -- PROJECT: Tail Spend Analytics — Procurement Intelligence Platform
 -- LAYER: Infrastructure / Dataset Provisioning
--- AUTHOR: Analytics Engineering Team
+-- AUTHOR: Alan Damian Peralta
 -- UPDATED: 2026-03-30
 -- =============================================================================
 -- DESCRIPTION:

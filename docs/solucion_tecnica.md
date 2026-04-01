@@ -1,5 +1,7 @@
 # Solución Técnica — Tail Spend Analytics Platform
 
+**Autor:** Alan Damian Peralta
+
 **Proyecto:** Análisis y Transformación de Tail Spend  
 **Audiencia:** Head of Procurement / CFO  
 **Stack:** BigQuery · Looker (LookML) · Python · GitHub  
